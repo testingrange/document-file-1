@@ -17,6 +17,11 @@ Line 6
 new line
 
 
+
+New Feature A
+1.
+2.
+3.
 New feature B
 4.
 5.
@@ -24,4 +29,7 @@ New feature B
 7.
 8.
 9.
-
+New Feature C
+10.
+12.
+13.
